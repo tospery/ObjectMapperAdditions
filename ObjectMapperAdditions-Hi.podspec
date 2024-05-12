@@ -22,11 +22,11 @@ Pod::Spec.new do |s|
 - Adds ability to simply type cast JSON values to specified type.
                        DESC
 
-  s.homepage         = 'https://github.com/APUtils/ObjectMapperAdditions'
+  s.homepage         = 'https://github.com/tospery/ObjectMapperAdditions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'YangJianxiang' => 'tospery@gmail.com' }
-  s.source           = { :git => 'https://github.com/APUtils/ObjectMapperAdditions.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/tospery/ObjectMapperAdditions.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
