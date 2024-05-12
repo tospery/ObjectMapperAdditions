@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ObjectMapperAdditions'
-  s.version          = '13.2.1'
+  s.name             = 'ObjectMapperAdditions-Hi'
+  s.version          = '13.2.1-v1'
   s.summary          = 'ObjectMapper Extensions and Transforms'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/APUtils/ObjectMapperAdditions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Anton Plebanovich' => 'anton.plebanovich@gmail.com' }
+  s.author           = { 'YangJianxiang' => 'tospery@gmail.com' }
   s.source           = { :git => 'https://github.com/APUtils/ObjectMapperAdditions.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
